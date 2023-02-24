@@ -28,4 +28,7 @@ NSFW: `allowed`
 #### DEMO
 (coming soon)
 
-#### [DOWNLOAD]
+#### [DOWNLOAD_CREPE_MODEL] (https://github.com/MLo7Ghinsan/MLo7_Fish-SVC_models/releases/download/models/Nehito_300k_crepe.ckpt)
+#### [DOWNLOAD_PARSELMOUTH_MODEL] (https://github.com/MLo7Ghinsan/MLo7_Fish-SVC_models/releases/download/models/Nehito_300k_parselmouth.ckpt)
+
+_they were trained with the same codes and such, but have different preprocessing algorithm_
